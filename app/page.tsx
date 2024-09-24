@@ -1,5 +1,5 @@
 // import ContactSection from "@/components/ContactSection";
-// import Features from "@/components/Features";
+import Features from "@/components/Features";
 // import Footer from "@/components/Footer";
 
 import { BackgroundCellAnimation } from "@/components/Hero";
@@ -11,7 +11,7 @@ export default function Home() {
     <div className="relative bg-black-100 flex justify-center items-center flex-col overflow-hidden mx-auto">
       <FloatingNavDemo />
       <BackgroundCellAnimation />
-      {/* <Features /> */}
+      <Features />
       {/* <Testimonials /> */}
       {/* <ContactSection /> */}
       {/* <Footer /> */}
