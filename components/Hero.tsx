@@ -16,7 +16,7 @@ export const BackgroundCellAnimation: React.FC = () => {
           <h1 className="text-3xl sm:text-4xl md:text-5xl lg:text-7xl font-medium text-center bg-clip-text text-transparent bg-gradient-to-b from-neutral-900 to-neutral-500 mt-16 md:mt-20 lg:mt-28 pointer-events-none">
             Building The Future of Food with Fermentation{" "}
           </h1>
-          <p className="text-neutral-700 text-sm sm:text-base md:text-lg lg:text-xl my-4 lg:my-6">
+          <p className="text-neutral-700 text-sm sm:text-base md:text-lg lg:text-xl my-4 lg:my-6 px-20">
             we are transforming the way the world thinks about food production.
             Using cutting-edge fermentation technology, we convert food side
             streams into Kavaka™ Protein – a revolutionary, eco-friendly protein
@@ -33,8 +33,14 @@ export const BackgroundCellAnimation: React.FC = () => {
             </Link>
           </div>
         </div>
-        <div id="video" className="mt-16 md:mt-32 lg:mt-40 w-full">
-          {/* <Video /> */}
+        <div id="video" className="mt-16 md:mt-32 lg:mt-40 w-full flex items-center justify-center">
+          <Image
+          src="/about.jpeg"
+          width={1130}
+          height={1240}
+          alt="versatile icon"
+          className="mr-2"
+        />
         </div>
       </div>
     </div>
