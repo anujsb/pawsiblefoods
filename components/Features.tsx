@@ -48,7 +48,7 @@ const Features = () => {
               Your browser does not support the video tag.
             </video> */}
             <div className="p-2 bg-light-lavender rounded-xl border mr-4 mt-5 min-h-48 bg-white">
-              <p className="text-gray-300">PlaceHolder for video</p>
+              <p className="text-gray-300">PlaceHolder for image</p>
             </div>
           </div>
 
@@ -72,7 +72,7 @@ const Features = () => {
               Your browser does not support the video tag.
             </video> */}
             <div className="p-2 bg-light-lavender rounded-xl border mr-4 mt-5 min-h-48 bg-white">
-              <p className="text-gray-300">PlaceHolder for video</p>
+              <p className="text-gray-300">PlaceHolder for image</p>
             </div>
           </div>
         </div>
@@ -94,7 +94,7 @@ const Features = () => {
               Your browser does not support the video tag.
             </video> */}
             <div className="p-2 bg-light-lavender rounded-xl border mr-4 mt-5 min-h-48 bg-white">
-              <p className="text-gray-300">PlaceHolder for video</p>
+              <p className="text-gray-300">PlaceHolder for image</p>
             </div>
           </div>
 
@@ -120,7 +120,7 @@ const Features = () => {
               alt="commit preview"
             /> */}
             <div className="p-2 bg-light-lavender rounded-xl border mr-4 mt-5 min-h-48 bg-white">
-              <p className="text-gray-300">PlaceHolder for video</p>
+              <p className="text-gray-300">PlaceHolder for image</p>
             </div>
           </div>
         </div>
